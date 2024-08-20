@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Это pet-проект<br/>Используемые технологии:<br/>JavaScript<br/>HTMX<br/>HTML<br/>CSS</p>
+<p align="left">✨ Это pet-проект<br/>Используемые технологии:<br/>JavaScript<br/>HTMX<br/>HTML<br/>CSS<br/></p>
 
 ###
 

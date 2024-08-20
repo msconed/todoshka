@@ -2,12 +2,7 @@
 
 ###
 
-<p align="left">✨ Это pet-проект<br/><br/>Используемые технологии:<br/>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"  />
-  <img width="12" />
-  <p> JavaScript </p>
-</div> JavaScript<br/>HTMX<br/>HTML<br/>CSS<br/></p>
+<p align="left">✨ Это pet-проект<br/><br/>Используемые технологии:<br/>JavaScript<br/>HTMX<br/>HTML<br/>CSS<br/></p>
 
 ###
 

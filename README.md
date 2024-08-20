@@ -1,7 +1,3 @@
-<h1 align="left">Todoshka</h1>
-
-###
-
 <h2 align="left">Описание</h1>
 
 ###

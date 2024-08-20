@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Это pet-проект<br/><br/>Используемые технологии:<br/>JavaScript<br/>HTMX<br/>HTML<br/PHP<br/>CSS<br/></p>
+<p align="left">✨ Это pet-проект для ToDo-записей<br/><br/>Используемые технологии:<br/>JavaScript<br/>HTMX<br/>HTML<br/PHP<br/>CSS<br/></p>
 
 ###
 

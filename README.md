@@ -2,9 +2,15 @@
 
 ###
 
-<p align="left">✨ Это pet-проект<br/><br/>Используемые технологии:<br/>JavaScript<br/>HTMX<br/>HTML<br/>CSS<br/></p>
+<p align="left">✨ Это pet-проект<br/><br/>Используемые технологии:<br/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"  />
+  <img width="12" />
+</div> JavaScript<br/>HTMX<br/>HTML<br/>CSS<br/></p>
 
 ###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"  />
@@ -17,9 +23,6 @@
   <img width="12" />
   <img src="https://cdn-icons-png.freepik.com/512/11987/11987347.png" height="40"  />
   <img width="12" />
-
-
-  
 </div>
 
 ###

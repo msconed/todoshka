@@ -9,7 +9,7 @@
 <h2 align="left">Используемые технологии:</h1>
 
 ###
-<p align="left">✨ <br/>JavaScript<br/>HTMX<br/>HTML<br/>PHP<br/>CSS<br/></p>
+<p align="left">JavaScript<br/>HTMX<br/>HTML<br/>PHP<br/>CSS<br/></p>
 
 ###
 

@@ -1,13 +1,15 @@
-<h2 align="left">Описание</h1>
+<h1 align="left">Описание</h1>
 
 ###
 
 <p align="left">✨ Простенький ToDo сервис с авторизацией<br/>Благодаря HTMX всё делается без перезагрузок страницы, кроме регистрации/авторизации/выхода из аккаунта</p>
 
 
-###
 
-<p align="left">✨ Используемые технологии:<br/>JavaScript<br/>HTMX<br/>HTML<br/>PHP<br/>CSS<br/></p>
+<h2 align="left">Используемые технологии:</h1>
+
+###
+<p align="left">✨ <br/>JavaScript<br/>HTMX<br/>HTML<br/>PHP<br/>CSS<br/></p>
 
 ###
 
